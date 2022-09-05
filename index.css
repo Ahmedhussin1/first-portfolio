@@ -46,7 +46,7 @@ section{
     background-attachment: fixed;
 }
 .main h2{
-    color: whitesmoke;
+    color: #fffafa;
     font-size: 1.4em;
 }
 .main h2 span{
@@ -57,7 +57,7 @@ section{
     margin-top:10px;
 }
 .main h3{
-    color: whitesmoke;
+    color: #fffafa;
     font-size: 2em;
     font-weight: bold;
     letter-spacing: 1px;
